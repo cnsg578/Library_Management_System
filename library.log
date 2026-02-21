@@ -1,0 +1,9 @@
+[2026-02-21 17:04:46] [INFO] Book checked out: Clean Code 
+[2026-02-21 17:04:46] [INFO] Book returned: eec40d0e-8b3d-4e76-bc02-856796590b68 
+[2026-02-21 17:05:02] [INFO] Book checked out: Clean Code 
+[2026-02-21 17:05:02] [INFO] Book returned: 9b1cc51a-1f22-4cb1-ad1d-08cd830ee685 
+[2026-02-21 17:05:51] [INFO] Branch added: MainBranch 
+[2026-02-21 17:05:51] [INFO] Book added to branch: MainBranch 
+[2026-02-21 17:05:51] [INFO] Patron added: 1 
+[2026-02-21 17:05:51] [INFO] Book checked out: Clean Code 
+[2026-02-21 17:05:51] [INFO] Book returned: c732f74f-c812-455c-97a5-904c40e95303 
